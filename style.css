@@ -76,10 +76,6 @@ li::marker {
   font-weight: bold;
 }
 
-.lol {
-    text-decoration: line-through;
-}
-
 .wrapper {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
