@@ -81,6 +81,10 @@ li::marker {
   grid-template-columns: repeat(2, 1fr);
 }
 
+.lol {
+  text-decoration: line-through;
+}
+
 .slide-image {
   margin-top: 1em;
   margin-bottom: 1em;
